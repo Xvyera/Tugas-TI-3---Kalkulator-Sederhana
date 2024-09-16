@@ -37,4 +37,5 @@ func main() {
 
 	}
 
+        fmt.Print("SELAMATT ANDA BERHASIL!!! mari coba kembaliii")
 }
